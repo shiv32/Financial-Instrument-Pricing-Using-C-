@@ -1,1 +1,1 @@
-# Financial-Instrument-Pricing-Using-C-
+# Financial-Instrument-Pricing-Using-CPP
