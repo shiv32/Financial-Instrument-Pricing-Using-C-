@@ -65,7 +65,5 @@ int main()
 
     SP<value_type> sp3(new value_type(148.413), deleter);
 
-    //this is test55
-
     return 0;
 }
